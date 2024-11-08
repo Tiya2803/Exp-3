@@ -47,5 +47,10 @@ int main() {
     return 0;
 }
 ```
+
+# Output:
+![image](https://github.com/user-attachments/assets/85a0fbe2-b7ce-4c11-a961-6b60659b7ab4)
+
+
 # Conclusion:
 The code successfully demonstrates the use of arithmetic, assignment, and comparison operators in C++. Each section of the code outputs the results of the operations performed, validating the correct implementation and understanding of these operators. Arithmetic operators perform basic mathematical calculations, assignment operators modify the value of a variable based on the operation, and comparison operators help in making decisions by comparing values. This provides a clear understanding of how these operators function in C++.
